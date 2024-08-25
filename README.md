@@ -1,2 +1,2 @@
-# CapstoneDesign
-세종대학교 캡스톤디자인
+# BIG DATA ANALYSIS PROJECT
+빅데이터 학회 최종 프로젝트
